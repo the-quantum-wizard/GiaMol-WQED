@@ -13,6 +13,6 @@ This Jupyter notebook contains the code, data, and analysis used to study:
 
 If you use or adapt any material from this notebook in your research, we kindly ask you to acknowledge the work by citing the following reference:
 
-- [1] Y. Wang, J. J. García-Ripoll, and A. C. Santos, *[Giant Molecules in Waveguide QED](https://arxiv.org/abs/2603.27443)*, arXiv preprint arXiv:2603.27443 (2026).
+- [1] Y. Wang, J. J. García-Ripoll, and A. C. Santos, *[Decoherence-Free Qubit and Chiral Emission from a Giant Molecule in Waveguide QED](https://arxiv.org/abs/2603.27443)*, arXiv:2603.27443 (2026).
 
 **We are grateful for your consideration!**
